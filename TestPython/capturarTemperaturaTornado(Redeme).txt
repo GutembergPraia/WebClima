@@ -1,0 +1,3 @@
+Para executar capturarTemperaturaTornado, vc deve ter um servisor tornado para ele se conetar vc pode utilizar o que tem nessa pasta de teste com o comando:
+
+python websocket_messaging.py -k mykey -p 8888
